@@ -1,3 +1,5 @@
 /*-dump.txt
 /*.so
 /target/
+scripts/update-solana-dependencies.sh
+scripts/patch.crates-io.sh
