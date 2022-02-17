@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # Updates the solana version in all the SPL crates
-#
+
 
 here="$(dirname "$0")"
 
